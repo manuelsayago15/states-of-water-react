@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.solid {
+  color: white;
+  background-color: darkblue;
+}
+
+.liquid{
+  color: white;
+  background-color: blue;
+}
+
+.gas {
+  color: white;
+  background-color: aqua;
+}
